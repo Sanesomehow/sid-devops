@@ -1,1 +1,3 @@
 some changes
+Testing merging a branch
+Testing merging a branch part 2
